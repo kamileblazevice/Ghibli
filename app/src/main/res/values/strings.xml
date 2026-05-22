@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ghibli</string>
+    <string name="list_screen_title">Studio Ghibli Films</string>
+    <string name="list_item_director">Director: %1$s</string>
+    <string name="list_item_release_year">Year: %1$s</string>
+    <string name="detail_screen_title">Film Detail</string>
+    <string name="detail_item_director">Directed by: %1$s</string>
+    <string name="detail_item_release_year">Released: %1$s</string>
+    <string name="detail_back_icon_description">Back</string>
+    <string name="error_screen_text">Something went wrong</string>
+    <string name="error_screen_button_text">Try again</string>
+
+</resources>
